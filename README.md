@@ -21,4 +21,4 @@ However, the management noticed that they do not get enough insights to make qui
 
 * Canva: To create presentation slides.
 
-**Video Presentation link**: 
+**LinkedIn Video Presentation link**: https://www.linkedin.com/posts/harshakumavat2000_codebasicsresumeprojectchallenge-business-activity-7038217339615481857-NGk9?utm_source=share&utm_medium=member_desktop
