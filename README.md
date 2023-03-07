@@ -13,6 +13,14 @@ However, the management noticed that they do not get enough insights to make qui
 
 * Create presentation to show insights to Top-Level Management.
 
+**Three things I learned from this challenge:**
+
+* Querying the database for business insights required the use of many important SQL concepts such as CTE, Multiple Joins, Subqueries, Window functions, and so on.
+
+* I learned about fiscal years, gross sales, and converting years to fiscal years.
+
+* Using Canva's various features to create effective presentation slides
+
 **Tools used:**
 
 * MYSQL Workbench: To query data from the database.
